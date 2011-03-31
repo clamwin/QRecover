@@ -1,0 +1,9 @@
+*.pdb
+*.ncb
+*.suo
+*.vcproj.*.user
+config.*
+Debug
+Release
+Release ANSI
+
